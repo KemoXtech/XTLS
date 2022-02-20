@@ -1,7 +1,7 @@
 {
-    "name": "heroku-xray",
-    "description": "Deploy xray VLESS-TCP-XTLS-WHATEVER on Heroku.",
-    "keywords": ["heroku", "xray"],
+    "name": "heroku-project",
+    "description": "Deploy project on Heroku.",
+    "keywords": ["heroku", "project"],
     "env": {
         "UUID": {
             "description": "The ID for vmess/vless and password for trojan.",
